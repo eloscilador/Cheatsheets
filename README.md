@@ -1,2 +1,2 @@
 # Cheatsheets
-Repositorios con todas las chuletas (o cheatsheets) que vamos publicando
+Repositorio con todas las chuletas (o cheatsheets) que vamos publicando.
